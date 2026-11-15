@@ -1,0 +1,14 @@
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/Main.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/common/BenchmarkResult.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/common/DataGenerator.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/mpi/JavaMPI.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/mpi/MpiTask1Sum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/mpi/MpiTask2WaveSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task1/ExecutorServiceSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task1/ForkJoinSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task1/SequentialSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task1/ThreadSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task2/ExecutorServiceWaveSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task2/ForkJoinWaveSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task2/SequentialWaveSum.java
+/mnt/c/uni/3 Task/java/src/main/java/ua/kpi/hpc/task2/ThreadPoolWaveSum.java

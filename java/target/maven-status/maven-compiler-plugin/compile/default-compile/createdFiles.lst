@@ -1,0 +1,17 @@
+ua/kpi/hpc/common/BenchmarkResult.class
+ua/kpi/hpc/task2/ForkJoinWaveSum$WaveTask.class
+ua/kpi/hpc/task1/ExecutorServiceSum.class
+ua/kpi/hpc/task1/ThreadSum$WorkerThread.class
+ua/kpi/hpc/mpi/JavaMPI.class
+ua/kpi/hpc/task2/SequentialWaveSum.class
+ua/kpi/hpc/task2/ThreadPoolWaveSum.class
+ua/kpi/hpc/task1/ForkJoinSum$SumTask.class
+ua/kpi/hpc/task2/ExecutorServiceWaveSum.class
+ua/kpi/hpc/common/DataGenerator.class
+ua/kpi/hpc/task1/ThreadSum.class
+ua/kpi/hpc/task1/ForkJoinSum.class
+ua/kpi/hpc/mpi/MpiTask1Sum.class
+ua/kpi/hpc/mpi/MpiTask2WaveSum.class
+ua/kpi/hpc/Main.class
+ua/kpi/hpc/task1/SequentialSum.class
+ua/kpi/hpc/task2/ForkJoinWaveSum.class
